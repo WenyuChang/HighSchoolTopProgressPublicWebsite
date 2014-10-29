@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "vote", ".", "{19C35FBA-8683-47B3-B627-EAA164040A0A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/vote"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\vote\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\vote\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/vote"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\vote\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\vote\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51847"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C35FBA-8683-47B3-B627-EAA164040A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C35FBA-8683-47B3-B627-EAA164040A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
